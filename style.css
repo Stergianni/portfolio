@@ -219,9 +219,9 @@ hr.socket{
 
 
 /*--- Cards --*/
-.card{height: 20rem;}
-.card-title{padding-bottom: 1.2rem;}
-.card-subtitle{padding-bottom: 0.3rem;} 
+ .card{height: 20rem;}
+/* .card-title{padding-bottom: 1.2rem;}
+.card-subtitle{padding-bottom: 0.3rem;}   */
 
 
 /*--- Media Queries --*/
@@ -252,7 +252,8 @@ hr.socket{
   margin: 0 auto;
 }
 
-
+.narrow{width: auto;}
+.card{height: auto;}
 }
 
 
